@@ -36,6 +36,10 @@ o	Arapahoe County had 24,801 voters and 6.7% of votes from each county out of th
 -	The county with the most voters was:
 o	Denver County had 306,055 voters and 82.8% of votes from each county out of the total count
 
+This also noted in teh below photo of my analysis txt file.
+
+![alt text]()
+
 ## Election-Audit Summary
 
 After using this script to analysis this local election, I believe that the election committee can use this script for any election. There would only need to be a few modifications. I believe this could easily be used in a presidential election by modifying counties with states. This script could also be scaled down to something like a school board voting where all we would need to change was counties to school districts. Looking at these two examples I think it is easy to see how use this script can be in any election analysis setting.
