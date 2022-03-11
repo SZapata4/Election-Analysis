@@ -38,7 +38,7 @@ o	Denver County had 306,055 voters and 82.8% of votes from each county out of th
 
 This also noted in teh below photo of my analysis txt file.
 
-![alt text]()
+![election_analysis.png](https://github.com/SZapata4/Election-Analysis/blob/main/Resources/election_analysis.png)
 
 ## Election-Audit Summary
 
